@@ -5,4 +5,4 @@ Omar.
 Modifiche del 27/11/2025:
 -creata cartella 'helloworld' e aggiunti tutti i file di nome "hello world" già esistenti
 nella repo;
--scritto altri helloworld con estensioni non presenti.
+-scritto altri helloworld con estensioni non presenti
